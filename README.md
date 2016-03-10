@@ -714,6 +714,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [mqs](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 * [pqueue](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 * [queuex](https://github.com/falood/queuex) - Priority Queue with multiple backends.
+* [verk](https://github.com/edgurgel/verk) - Robust job processing system backed by Redis. 
 * [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 ## Release Management
